@@ -42,7 +42,7 @@
   "remindMeLater": "Lembrar-me Mais Tarde",
   "failedDownloadUpdate": "Falha ao baixar a atualização",
   "installAndRelaunch": "Instalar e Reiniciar",
-  "uptodate": "Você está em dia! A versão atual é {{version}}",
+  "uptodate": "Você está atualizado! A versão atual é {{version}}",
   "preferences": "Preferências",
   "general": "Geral",
   "sideButtonLabels": "Mostrar nomes nos botões laterais",
