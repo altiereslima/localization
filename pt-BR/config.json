@@ -128,7 +128,7 @@
   "llm.load.llama.ropeFrequencyScale/title": "Escala de Frequência do RoPE",
   "llm.load.llama.ropeFrequencyScale/subTitle": "O tamanho do contexto é escalonado por este fator para estender o contexto efetivo usando RoPE.",
   "llm.load.llama.ropeFrequencyScale/info": "[Avançado] Modifica a escala de frequência para Codificação Posicional Rotativa (RoPE) para controlar a granularidade da codificação posicional.",
-  "llm.load.llama.acceleration.offloadRatio/title": "Offload para GPU",
+  "llm.load.llama.acceleration.offloadRatio/title": "Descarregar para GPU",
   "llm.load.llama.acceleration.offloadRatio/subTitle": "Número de camadas do modelo a serem processadas na GPU para acelerar o desempenho.",
   "llm.load.llama.acceleration.offloadRatio/info": "Defina o número de camadas para descarregar na GPU.",
   "llm.load.llama.flashAttention/title": "Flash Attention",
