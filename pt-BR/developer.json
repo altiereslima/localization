@@ -154,7 +154,7 @@
   "endpoints/openaiCompatRest/title": "Endpoints suportados (padrão OpenAI)",
   "endpoints/openaiCompatRest/getModels": "Lista os modelos carregados atualmente",
   "endpoints/openaiCompatRest/postCompletions": "Modo de Conclusão de Texto. Prevê os próximos tokens a partir de um prompt. Nota: A OpenAI considera este endpoint 'obsoleto'.",
-  "endpoints/openaiCompatRest/postChatCompletions": "Conclusão de Chat. Envia um histórico de conversa para o modelo prever a próxima resposta do assistente.",
+  "endpoints/openaiCompatRest/postChatCompletions": "Conclusão de Conversa. Envia um histórico de conversa para o modelo prever a próxima resposta do assistente.",
   "endpoints/openaiCompatRest/postEmbeddings": "Embedding de Texto. Gera embeddings de texto para uma entrada. Aceita uma string ou uma lista de strings.",
 
   "model.createVirtualModelFromInstance": "Salvar Configurações como um Novo Modelo Virtual",
